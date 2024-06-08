@@ -1,0 +1,1 @@
+https://github.com/julioalfian/K-Nearest-Neighbor/blob/master/gizi.sql
